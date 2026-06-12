@@ -6,6 +6,8 @@
 [![Korean Original](https://img.shields.io/badge/%E5%8E%9F%E6%9B%B8-%E9%9F%93%E5%9B%BD%E8%AA%9E%E7%89%88-blue.svg)](https://github.com/eremes81/game-design-ai-practice)
 [![Print Edition (KR)](https://img.shields.io/badge/BOOKK-%E7%B4%99%E3%81%AE%E6%9C%AC%EF%BC%88%E9%9F%93%E5%9B%BD%E8%AA%9E%EF%BC%89-orange.svg)](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)
 
+**🌐 他言語版:** [한국어 — 原書](https://github.com/eremes81/game-design-ai-practice) · [English](https://github.com/eremes81/game-design-ai-practice-en) · **日本語**
+
 <img src="assets/cover.png" alt="表紙" width="320">
 
 ゲーム業界24年目のプランナー／デザインディレクターが、生成AI（Claude Code）を**毎日の実務**に組み込む方法をまとめた実践ガイドです。理論や展望ではなく、インストール・アカウント・料金という最初の画面から、システム企画・戦闘・ナラティブ・レベルデザイン・バランス・UX・ライブ運営、さらに議事録を決定に変える方法・検証ゲート・コスト管理・著作権まで、一つの作業を手を動かして最後まで追えるように構成しました。
