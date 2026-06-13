@@ -47,6 +47,10 @@
 
 このリポジトリは同じ本の**日本語版（マークダウンソース）**を下記ライセンスで公開したものです。韓国語原書は [eremes81/game-design-ai-practice](https://github.com/eremes81/game-design-ai-practice)、英語版は [eremes81/game-design-ai-practice-en](https://github.com/eremes81/game-design-ai-practice-en) にあります。
 
+## 🎁 発売記念割引（英語版 Leanpub）
+
+> **[👉 クーポン LAUNCH30 で英語版を $13.30 で購入](https://leanpub.com/aiworkflowforgamedesigners/c/LAUNCH30)** — 定価 $19 から30%オフ · 無制限 · 有効期限なし
+
 ## 全体目次
 
 > **24部 + 付録A\~N + エピローグ · 100章。** 付録は [`manuscript/part99-appendix/`](manuscript/part99-appendix)、奥付は [`manuscript/_colophon.md`](manuscript/_colophon.md)。
