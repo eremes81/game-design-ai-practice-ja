@@ -35,16 +35,16 @@
 - **[1.0 始める前に — インストール・アカウント・料金・ターミナルサバイバルキット](manuscript/part01-foundation/chapter-0-setup-survival-kit.md)** — 最初の画面から追っていく
 - 本文の図は ` ```mermaid ` コードで書かれており、**GitHub上でそのままレンダリング**されます。下の目次から章をクリックすればすぐ読めます。
 
-## 原書（韓国語・紙の本）
+## 原書（韓国語・紙の本 & PDF）
 
 | | |
 |---|---|
 | 著者 | イ・ミンス（李旼洙 / Minsoo Lee） · [LinkedIn](https://www.linkedin.com/in/min-soo-lee-a2632367/) |
-| 出版 | BOOKK · 紙の本（韓国語） |
+| 出版 | BOOKK · 紙の本 & PDF電子書籍（韓国語） |
 | ISBN | 979-11-12-21479-9 |
 | 出版日 | 2026-06-11 |
 | 分量 | 876ページ · 24部 + 付録A\~N + エピローグ |
-| 購入 | **[BOOKKストア（韓国語の紙の本）](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)** |
+| 購入 | **[紙の本 ₩61,600](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)** · **[PDF電子書籍 ₩15,000](https://bookk.co.kr/bookStore/6a2c8a6fd9d0a3ee9fe4c9eb)** |
 
 このリポジトリは同じ本の**日本語版（マークダウンソース）**を下記ライセンスで公開したものです。韓国語原書は [eremes81/game-design-ai-practice](https://github.com/eremes81/game-design-ai-practice)、英語版は [eremes81/game-design-ai-practice-en](https://github.com/eremes81/game-design-ai-practice-en) にあります。
 
