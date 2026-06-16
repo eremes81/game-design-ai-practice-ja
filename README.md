@@ -39,7 +39,7 @@
 
 | | |
 |---|---|
-| 著者 | イ・ミンス（李旼洙 / Minsoo Lee） |
+| 著者 | イ・ミンス（李旼洙 / Minsoo Lee） · [LinkedIn](https://www.linkedin.com/in/min-soo-lee-a2632367/) |
 | 出版 | BOOKK · 紙の本（韓国語） |
 | ISBN | 979-11-12-21479-9 |
 | 出版日 | 2026-06-11 |
