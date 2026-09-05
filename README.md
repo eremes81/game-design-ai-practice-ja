@@ -44,7 +44,7 @@
 | ISBN | 979-11-12-21479-9 |
 | 出版日 | 2026-06-11 |
 | 分量 | 876ページ · 24部 + 付録A\~N + エピローグ |
-| 購入 | **[紙の本 ₩61,600](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)** · **[PDF電子書籍 ₩15,000](https://bookk.co.kr/bookStore/6a2c8a6fd9d0a3ee9fe4c9eb)** |
+| 購入 | **[紙の本 ₩61,600](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)** · **[PDF電子書籍 ₩15,000](https://bookk.co.kr/bookStore/6a2c8a6fd9d0a3ee9fe4c9eb)** · **[EPUB電子書籍 ₩15,000（uPaper・韓国語版）](https://eremes.upaper.kr/content/1217657)** |
 
 このリポジトリは同じ本の**日本語版（マークダウンソース）**を下記ライセンスで公開したものです。韓国語原書は [eremes81/game-design-ai-practice](https://github.com/eremes81/game-design-ai-practice)、英語版は [eremes81/game-design-ai-practice-en](https://github.com/eremes81/game-design-ai-practice-en) にあります。
 
