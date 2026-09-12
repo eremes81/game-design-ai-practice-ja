@@ -10,6 +10,11 @@
 
 **🌐 他言語版:** [한국어 — 原書](https://github.com/eremes81/game-design-ai-practice) · [English](https://github.com/eremes81/game-design-ai-practice-en) · **日本語** · [ไทย](https://github.com/eremes81/game-design-ai-practice-th) · [Bahasa Indonesia](https://github.com/eremes81/game-design-ai-practice-id) · [简体中文](https://github.com/eremes81/game-design-ai-practice-zh-hans) · [繁體中文](https://github.com/eremes81/game-design-ai-practice-zh-hant)
 
+> 🧰 **併用ツール — [ハーネス・スターターキット](https://github.com/eremes81/harness-starter-kit)**
+> 本書 1.3（メモリ・権限・設定）・第21部（自己改善）・第24部（運用）で組み立てる**メモリ・フック・振り返りの構造を、フォルダごと受け取ってすぐ動かせる**最小構成です。
+> 著者の別の本（一般職向け）の付録として作ったものですが、骨組みは同じです。MIT ライセンス。
+
+
 <img src="assets/cover.png" alt="表紙" width="320">
 
 ゲーム業界24年目のプランナー／デザインディレクターが、生成AI（Claude Code）を**毎日の実務**に組み込む方法をまとめた実践ガイドです。理論や展望ではなく、インストール・アカウント・料金という最初の画面から、システム企画・戦闘・ナラティブ・レベルデザイン・バランス・UX・ライブ運営、さらに議事録を決定に変える方法・検証ゲート・コスト管理・著作権まで、一つの作業を手を動かして最後まで追えるように構成しました。
