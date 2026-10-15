@@ -4,7 +4,6 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE)
 [![Korean Original](https://img.shields.io/badge/%E5%8E%9F%E6%9B%B8-%E9%9F%93%E5%9B%BD%E8%AA%9E%E7%89%88-blue.svg)](https://github.com/eremes81/game-design-ai-practice)
-[![Print Edition (KR)](https://img.shields.io/badge/BOOKK-%E7%B4%99%E3%81%AE%E6%9C%AC%EF%BC%88%E9%9F%93%E5%9B%BD%E8%AA%9E%EF%BC%89-orange.svg)](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)
 [![Amazon Kindle (JA)](https://img.shields.io/badge/Amazon%20Kindle-%C2%A51%2C250-FF9900.svg)](https://www.amazon.co.jp/dp/B0GZ33SGMK)
 [![WikiDocs (KR)](https://img.shields.io/badge/WikiDocs-%E7%84%A1%E6%96%99%E3%81%A7%E8%AA%AD%E3%82%80%20(%E9%9F%93%E5%9B%BD%E8%AA%9E)-1f8b4c.svg)](https://wikidocs.net/book/20216)
 
@@ -50,7 +49,6 @@
 | ISBN | 979-11-12-21479-9 |
 | 出版日 | 2026-06-11 |
 | 分量 | 876ページ · 24部 + 付録A\~N + エピローグ |
-| 購入 | **[紙の本 ₩61,600](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)** · **[PDF電子書籍 ₩15,000](https://bookk.co.kr/bookStore/6a2c8a6fd9d0a3ee9fe4c9eb)** · **[EPUB電子書籍 ₩15,000（uPaper・韓国語版）](https://eremes.upaper.kr/content/1217657)** |
 
 このリポジトリは同じ本の**日本語版（マークダウンソース）**を下記ライセンスで公開したものです。韓国語原書は [eremes81/game-design-ai-practice](https://github.com/eremes81/game-design-ai-practice)、英語版は [eremes81/game-design-ai-practice-en](https://github.com/eremes81/game-design-ai-practice-en) にあります。
 
@@ -58,7 +56,6 @@
 
 - **Amazon Kindle（日本語版）:** [**Amazon で ¥1,250**](https://www.amazon.co.jp/dp/B0GZ33SGMK) — Kindle ストアで配信中
 - **BOOTH（日本語版・EPUB）:** [**¥1,500（eremes.booth.pm）**](https://eremes.booth.pm/items/8503146)
-- **Leanpub（英語版・PWYW）:** [**クーポン `LAUNCH30` で $13.30**](https://leanpub.com/aiworkflowforgamedesigners/c/LAUNCH30) — 定価 $19 から30%オフ · 無制限 · 有効期限なし
 
 > 全文はこのリポジトリで**無料で読めます**（CC BY-NC-SA）。各電子書籍版は、整った形で読みたい方・著者を支援したい方のためのものです。
 
